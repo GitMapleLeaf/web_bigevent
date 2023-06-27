@@ -4,6 +4,7 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
+  
   background: url('/assets/images/login_bg.jpg') no-repeat center;
   background-size: cover;
 }
@@ -42,6 +43,7 @@ body {
 
 .layui-form-item {
   position: relative;
+  top:60px
 }
 
 .layui-icon {
